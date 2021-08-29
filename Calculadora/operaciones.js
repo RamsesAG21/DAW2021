@@ -13,7 +13,7 @@ function calcularOpSum(){
 	console.log(resultado);
 
 	var resultadoElement = document.getElementById("resultado");
-	resultadoElement.innerHTML = 'El resultado es: ' + resultado;
+	resultadoElement.innerHTML = 'El resultado de la Suma es: ' + resultado;
 
 }
 
@@ -28,7 +28,7 @@ function calcularOpRes(){
         console.log(resultado);
 
         var resultadoElement = document.getElementById("resultado");
-        resultadoElement.innerHTML = 'El resultado es: ' + resultado;
+        resultadoElement.innerHTML = 'El resultado de la Resta es: ' + resultado;
 
 }
 
@@ -43,7 +43,7 @@ function calcularOpMul(){
         console.log(resultado);
 
         var resultadoElement = document.getElementById("resultado");
-        resultadoElement.innerHTML = 'El resultado es: ' + resultado;
+        resultadoElement.innerHTML = 'El resultado de la Multiplicacion es: ' + resultado;
 
 }
 
@@ -58,7 +58,7 @@ function calcularOpDiv(){
         console.log(resultado);
 
         var resultadoElement = document.getElementById("resultado");
-        resultadoElement.innerHTML = 'El resultado es: ' + resultado;
+        resultadoElement.innerHTML = 'El resultado de la Division es: ' + resultado;
 
 }
 
@@ -73,7 +73,7 @@ function calcularOpPot(){
         console.log(resultado);
 
         var resultadoElement = document.getElementById("resultado");
-        resultadoElement.innerHTML = 'El resultado es: ' + resultado;
+        resultadoElement.innerHTML = 'El resultado de la Potencia es: ' + resultado;
 
 }
 
@@ -88,7 +88,7 @@ function calcularOpSqrt(){
         console.log(resultado);
 
         var resultadoElement = document.getElementById("resultado");
-        resultadoElement.innerHTML = 'El resultado es: ' + resultado;
+        resultadoElement.innerHTML = 'El resultado de la Raiz es: ' + resultado;
 
 }
 
